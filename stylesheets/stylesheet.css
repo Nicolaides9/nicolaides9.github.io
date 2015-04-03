@@ -61,11 +61,6 @@ p {
 .space span {
     margin: 0 7px;
 }
-
-a:hover {
-  background-color: #13d593;
-  color: #fff;
-}
 .clearfix {
   clear: both;
   padding: 25px;
@@ -107,9 +102,6 @@ article h4 {
 .view {
   color: #fff;
   text-decoration: underline;
-}
-.images a:hover {
-  background-color: #4EA869;
 }
 .usp {
   list-style-image: url("../img/uspStar.png");
@@ -162,6 +154,10 @@ ul.nav {
 .guides{
   color: #fff;
   text-decoration: none;
+}
+a.large-button:hover {
+  background-color: #13d593;
+  color: #fff;
 }
 
 
